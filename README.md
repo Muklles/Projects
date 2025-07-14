@@ -12,9 +12,9 @@ Cada pasta neste repositório corresponde a um projeto diferente. Dentro de cada
 
 ### Lista de projetos
 
-- [ProjetoA](./ProjetoA) — Breve descrição do ProjetoA.
-- [ProjetoB](./ProjetoB) — Breve descrição do ProjetoB.
-- [ProjetoC](./ProjetoC) — Breve descrição do ProjetoC.
+- [Search PROJECT 0](./Search%20PROJECT%200) — Projeto focado em funcionalidades de busca e pesquisa.
+- [Wiki PROJECT 1](./Wiki%20PROJECT%201) — Projeto para criação e gerenciamento de conteúdo tipo wiki.
+- [Commerce PROJECT 2](./Commerce%20PROJECT%202) — Projeto relacionado a comércio eletrônico, com funcionalidades de compra e venda.
 
 ## Como usar
 
