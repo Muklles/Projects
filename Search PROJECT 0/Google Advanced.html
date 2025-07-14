@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<style>
+		.Link {
+			text-align: right;
+			text-align: end;
+			}
+		.top-bar {
+			color: #d93025;
+    		font-size: 20px;
+    		margin: 25px 35px;
+			}
+		body { 
+			font-family: Arial, Helvetica, sans-serif;
+		}
+		.main_div {margin-left: 5%;}
+		.barra {
+			border-bottom:1px solid #ebebeb;
+		} 
+		#botao {		
+			height:30px;
+			min-width:120px;
+			background: #4d90fe;
+			border:1px solid #3079ed;
+			color:#fff;
+			border-radius: 2px;
+			font-size: 11px;
+			font-weight: bold;
+			margin-left: 25%;
+			display: block;
+		}       	
+	</style>
+    
+	<title>Google advance</title>
+</head>
+<body>
+	<form action="https://www.google.com/search">
+		<div class="Link">
+			<a href="index.html">Google</a>
+		</div>
+		<div class="top-bar">
+			<h1>Advanced Search</h1>
+		</div>
+		<div class="barra"></div>
+		<div class="main_div">
+			<table>
+				<span style="font-style: inherit;" class="first">
+					<thead>
+						<br>
+						<th>Find pages with...</th>
+						<th></th>
+						<th>To do this in the searchbox.</th>
+					</thead>
+				</span>
+
+				<div class="row">
+					<tr>
+						<td><label for="first"> all these words:</label></td>
+						<td><input style="
+											width: 350px;	
+											height:25px;
+											border-color: rgb(214, 208, 208);
+										" 
+											type="text" 
+											id="first" 
+											name="as_q" />
+						</td>
+						<td><p>Type the important words: tri-colour rat terrier</p></td>
+					</tr>
+				</div>
+				<div class="row">
+					<tr>
+						<td><label for="second">this exact word or phrase:</label></td>
+						<td><input style="	
+											width: 350px;	
+											height:25px;
+											border-color: rgb(214, 208, 208);
+										" 
+											type="text" id="second" 
+											name="as_epq" />
+						</td>
+						<td><p>Put exact words in quotes: "rat terrier"</p></td>
+					</tr>
+				</div>
+				<div class="row">
+					<tr>
+						<td><label for="third">any of these words:</label></td>
+						<td><input style="	
+											width: 350px;	
+											height:25px;
+											border-color: rgb(214, 208, 208);" 
+											type="text" id="third
+										" 
+											name="as_oq" />
+						</td>
+						<td><p>Type OR between all the words you want: miniature OR standard</p></td>
+					</tr>
+				</div>
+				<div class="row">
+					<tr>
+						<td><label for="fourth">none of these words:</label></td>
+						<td><input style="
+											width: 350px;	
+											height:25px;
+											border-color: rgb(214, 208, 208);" 
+											type="text" id="fourth
+										" 
+											name="as_eq" />
+						</td>
+						<td><p>Put a minus sign just before words that you don't want: -rodent, -"Jack Russell"</p></td>
+						
+					</tr>
+				</div>
+			</table>
+				<button id="botao" type="submit" >Advanced Search</button>
+			<br>	
+		</div>
+		<div class="barra"></div>	
+
+	</form>
+</body>
+</html>
