@@ -1,24 +1,24 @@
-# Meu Portfolio de Projetos
+# My Project Portfolio
 
-Bem-vindo ao meu portfolio! Aqui você encontrará alguns dos projetos que desenvolvi ao longo do tempo, organizados em pastas separadas para facilitar a navegação.
+Welcome to my portfolio! Here you will find some of the projects I have developed over time, organized in separate folders for easy navigation.
 
-## Sobre mim
+## About Me
 
-Sou Leonardo, estudante apaixonado por programação e tecnologia. Aqui compartilho meus trabalhos e aprendizados.
+I am Leonardo, a student passionate about programming and technology. Here I share my work and learning experiences.
 
-## Projetos
+## Projects
 
-Cada pasta neste repositório corresponde a um projeto diferente. Dentro de cada uma delas você pode encontrar o código-fonte, documentação e outros arquivos relacionados.
+Each folder in this repository corresponds to a different project. Inside each folder, you can find the source code, documentation, and other related files.
 
-### Lista de projetos
+### Project List
 
-- [Search PROJECT 0](./Search%20PROJECT%200) — Projeto focado em funcionalidades de busca e pesquisa.
-- [Wiki PROJECT 1](./Wiki%20PROJECT%201) — Projeto para criação e gerenciamento de conteúdo tipo wiki.
-- [Commerce PROJECT 2](./Commerce%20PROJECT%202) — Projeto relacionado a comércio eletrônico, com funcionalidades de compra e venda.
+- [Search PROJECT 0](./Search%20PROJECT%200) — Project focused on search and query functionalities.
+- [Wiki PROJECT 1](./Wiki%20PROJECT%201) — Project for creating and managing wiki-style content.
+- [Commerce PROJECT 2](./Commerce%20PROJECT%202) — Project related to e-commerce, with buying and selling features.
 
-## Como usar
+## How to Use
 
-Você pode clonar este repositório para sua máquina local usando:
+You can clone this repository to your local machine using:
 
 ```bash
-git clone https://github.com/seu-usuario/portfolio.git
+git clone https://github.com/your-username/portfolio.git
